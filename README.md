@@ -14,7 +14,7 @@ Toma los competidores de un cliente (los del brief + los que descubre por keywor
 ## Instalación rápida
 
 ```bash
-git clone https://github.com/<usuario>/radar-competencia.git ~/.claude/skills/radar-competencia
+git clone https://github.com/diegogwork1-alt/radar-competencia.git ~/.claude/skills/radar-competencia
 ```
 
 Luego, en Claude Code: `/radar-competencia`.

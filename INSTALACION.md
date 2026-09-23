@@ -48,14 +48,14 @@ radar-competencia/
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/<usuario>/radar-competencia.git ~/.claude/skills/radar-competencia
+git clone https://github.com/diegogwork1-alt/radar-competencia.git ~/.claude/skills/radar-competencia
 ```
 
 ### Opción B — solo para un proyecto concreto
 
 ```bash
 mkdir -p .claude/skills
-git clone https://github.com/<usuario>/radar-competencia.git .claude/skills/radar-competencia
+git clone https://github.com/diegogwork1-alt/radar-competencia.git .claude/skills/radar-competencia
 ```
 
 ### Comprobar que ha quedado bien
